@@ -1,0 +1,8 @@
+com\example\jsondataset\repository\DatasetRecordRepository.class
+com\example\jsondataset\service\DatasetService.class
+com\example\jsondataset\JsonDatasetApiApplication.class
+com\example\jsondataset\model\DatasetRecord.class
+com\example\jsondataset\repository\impl\DatasetRecordRepositoryImpl.class
+com\example\jsondataset\repository\DatasetRecordRepositoryCustom.class
+com\example\jsondataset\controller\DatasetController.class
+com\example\jsondataset\dto\ApiResponse.class
